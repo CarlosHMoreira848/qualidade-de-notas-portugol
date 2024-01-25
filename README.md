@@ -3,4 +3,4 @@
 - Data: 24/01/2024
 - Contexto: Formação CÓDIGO DE BASE da Educ360° em parceria com a Foursys! | Curso Jornada Base - Lógica
 - O que é: Um código de baixa complexidade que avalia e atribui qualidade à notas de um aluno.
-- Temas abordados: Operador relacional >=.
+- Temas abordados: Operador relacional >= e estrutura condicional senao se.
